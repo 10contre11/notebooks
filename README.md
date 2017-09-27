@@ -3,3 +3,4 @@
  * [FIFA 18 player stats](https://www.kaggle.com/thec03u5/fifa-18-player-stats-analysis): uses [seaborn](http://seaborn.pydata.org/)
  * [Seaborn examples](https://github.com/gbrough/westportlanddatascienceclub/blob/master/Seaborn/SeabornTutorial.ipynb)
  * [Draw basketball field in python](http://savvastjortjoglou.com/nba-shot-sharts.html)
+ * [Baseball data viz](https://github.com/MayukhSobo/BaseBall/blob/master/src/Baseball.ipynb)
