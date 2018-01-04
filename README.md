@@ -5,3 +5,4 @@
  * [Draw basketball field in python](http://savvastjortjoglou.com/nba-shot-sharts.html)
  * [Baseball data viz](https://github.com/MayukhSobo/BaseBall/blob/master/src/Baseball.ipynb)
 
+ * [Features selection and Viz](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
